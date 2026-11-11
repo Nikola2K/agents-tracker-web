@@ -9,10 +9,10 @@
 // ---------------------------------------------------------------------------------------
 
 // Looks like: "https://abcdefghijklmnop.supabase.co"
-export const SUPABASE_URL = "";
+export const SUPABASE_URL = "https://ccdxigcfzgypbfbqjsdk.supabase.co";
 
 // Looks like: "sb_publishable_..."   (on older projects: the long "anon" key)
-export const SUPABASE_KEY = "";
+export const SUPABASE_KEY = "sb_publishable_WzCIm-RUOrzpONpGjgxSjg_FlSJcKmD";
 
 // Supabase logins are technically e-mail addresses. Agents only ever type a username;
 // the site quietly adds this ending to it. No e-mail is ever sent to these addresses.
